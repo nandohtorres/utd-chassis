@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/utd-chassis/static/css/main.b4208512.css",
-    "main.js": "/utd-chassis/static/js/main.3a01a953.js",
+    "main.js": "/utd-chassis/static/js/main.83f993c6.js",
     "static/js/787.0fb61d32.chunk.js": "/utd-chassis/static/js/787.0fb61d32.chunk.js",
     "static/media/show3.jpg": "/utd-chassis/static/media/show3.702e01b82a32a4840ead.jpg",
     "static/media/show2.jpg": "/utd-chassis/static/media/show2.5572a29dac5073f564bc.jpg",
@@ -26,11 +26,11 @@
     "static/media/varun.jpg": "/utd-chassis/static/media/varun.b25b76e7fe9e60961992.jpg",
     "index.html": "/utd-chassis/index.html",
     "main.b4208512.css.map": "/utd-chassis/static/css/main.b4208512.css.map",
-    "main.3a01a953.js.map": "/utd-chassis/static/js/main.3a01a953.js.map",
+    "main.83f993c6.js.map": "/utd-chassis/static/js/main.83f993c6.js.map",
     "787.0fb61d32.chunk.js.map": "/utd-chassis/static/js/787.0fb61d32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4208512.css",
-    "static/js/main.3a01a953.js"
+    "static/js/main.83f993c6.js"
   ]
 }
